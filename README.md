@@ -3,4 +3,5 @@
 - [crear conexion](./1.creando_conexion.md)
 - [creando tablas](./2.creando_tablas.md)
 - [creando relaciones entre tablas](./3.creando_relaciones.md)
-- [insertando registros (filas)](./4.insertando_datos.md)
+- [insertando registros (filas)](./4.insertando_filas.md)
+- [actualizacion de filas](./5.actualizacion_filas.md)
